@@ -1,6 +1,6 @@
 {application, lz4,
  [
-  {description, ""},
+  {description, "lz4 compression library"},
   {vsn, "0.2.2"},
   {registered, []},
   {applications, [
