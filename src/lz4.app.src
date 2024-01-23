@@ -9,7 +9,7 @@
                  ]},
   {modules, [lz4]},
   {pkg_name, leveled_lz4},
-  {licenses, ["BSD", "Apache-2.0"]},
+  {licenses, ["BSD-2-Clause", "GPL-2.0-only", "Apache-2.0"]},
   {links, [{"GitHub", "https://github.com/nhs-riak/erlang-lz4"}]},
   {env, []}
  ]}.
