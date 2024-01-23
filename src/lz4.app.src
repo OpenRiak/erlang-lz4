@@ -1,12 +1,15 @@
 {application, lz4,
  [
-  {description, "LZ4 Compression Library"},
-  {vsn, "0.2.2"},
+  {description, "LZ4 Compression Library v1.9.4 - for use in leveled only; fork of szktty/erlang-lz4"},
+  {vsn, git},
   {registered, []},
   {applications, [
                   kernel,
                   stdlib
                  ]},
   {modules, [lz4]},
+  {pkg_name, leveled_lz4},
+  {licenses, ["BSD", "Apache-2.0"]},
+  {links, [{"GitHub", "https://github.com/nhs-riak/erlang-lz4"}]},
   {env, []}
  ]}.
