@@ -13,4 +13,4 @@ stylesheet.css
 /_build
 c_src/*.d
 rebar.lock
-TEST-file_lz4.app.xml
+TEST-*
