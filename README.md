@@ -1,8 +1,7 @@
 erlang-lz4
 ==========
 
-branch: master [![Build Status](https://secure.travis-ci.org/szktty/erlang-lz4.png?branch=master)](http://travis-ci.org/szktty/erlang-lz4)
-develop [![Build Status](https://secure.travis-ci.org/szktty/erlang-lz4.png?branch=develop)](http://travis-ci.org/szktty/erlang-lz4)
+![LZ4 OpenRiak Status](https://github.com/OpenRiak/erlang-lz4/actions/workflows/erlang.yml/badge.svg?branch=openriak-3.4)
 
 LZ4 bindings for Erlang
 
